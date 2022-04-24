@@ -1,4 +1,4 @@
-package com.cz;
+package com.cz.alipay.test;
 
 import com.alipay.api.AlipayClient;
 import com.alipay.api.DefaultAlipayClient;
